@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=matrix
+comment0.target=java.lang.String\ matrixStr(SquareMatrix)
+comment0.text=\n\ a\ String\ representation\ of\ one\ matrix\ in\ brackets\n\ Precondition\:\ SquareMatrix\ contains\ only\ single\ digit\ integers\n\ \n\ @param\ \ matrix\ \ \ matrix\ to\ be\ displayed\ \ \ \n\ @return\ \ \ \ \ a\ String\ representation\ of\ one\ matrix\ \n
+comment1.params=matrixA\ matrixB\ operation
+comment1.target=java.lang.String\ matrix2Str(SquareMatrix,\ SquareMatrix,\ java.lang.String)
+comment1.text=\n\ Displays\ two\ square\ matrices\ side\ by\ side\n\ Precondition\:\ SquareMatrices\ are\ the\ same\ size\ and\ contain\ only\ single\ digit\ integers\n\ \n\ @param\ \ matrixA\ \ \ first\ square\ matrix\n\ @param\ \ matrixB\ \ \ second\ square\ matrix\n\ @param\ \ operation\ \ \ a\ String\ representing\ \=\ or\ \!\=\n\ @return\ \ \ \ \ a\ String\ representation\ of\ two\ Matrices\ \n
+comment2.params=matrixA\ matrixB\ matrixC\ operation
+comment2.target=java.lang.String\ matrix3Str(SquareMatrix,\ SquareMatrix,\ SquareMatrix,\ java.lang.String)
+comment2.text=\n\ Verifies\ the\ calculation\ and\ returns\ a\ String\ representation\ of\ the\ Matrix\ equation\n\ Precondition\:\ SquareMatrices\ are\ the\ same\ size\ and\ contain\ only\ single\ digit\ integers\n\ \n\ @param\ \ matrixA\ \ \ first\ square\ matrix\ in\ the\ equation\n\ @param\ \ matrixB\ \ \ second\ square\ matrix\ in\ the\ equation\n\ @param\ \ matrixC\ \ \ claimed\ resulting\ matrix\ in\ the\ equation\n\ @param\ \ operation\ \ \ a\ String\ representing\ +\ -\ or\ *\n\ @return\ \ \ \ \ a\ String\ representation\ of\ the\ matrix\ equation\ with\ verification\ message\ \n
+comment3.params=i
+comment3.target=java.lang.String\ formatNum(int)
+comment4.params=i
+comment4.target=java.lang.String\ formatStr(java.lang.String)
+comment5.params=intArray\ nextArray\ resultArray
+comment5.target=boolean\ verifyAddition(int[][],\ int[][],\ int[][])
+comment6.params=intArray\ nextArray\ resultArray
+comment6.target=boolean\ verifySubtraction(int[][],\ int[][],\ int[][])
+comment7.params=intArray\ nextArray\ resultArray
+comment7.target=boolean\ verifyMultiplication(int[][],\ int[][],\ int[][])
+comment8.params=sumArray\ resultArray
+comment8.target=boolean\ arraysRsame(int[][],\ int[][])
+numComments=9

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=sideLen
+comment0.target=int[][]\ makeSQarray(int)
+comment0.text=\n\ Create\ and\ return\ a\ square\ array\n\ \n\ @param\ \ sideLen\ \ \ number\ of\ rows\ \=\ columns\n\ @return\ \ \ \ \ square\ array\ of\ random\ integers\ \n
+numComments=1

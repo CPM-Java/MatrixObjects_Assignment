@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=intArray
+comment0.target=SquareMatrix(int[][])
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ SquareMatrix\n\ \n\ @param\ \ array\ \ \ a\ 2-D\ array\ of\ integers\n
+comment1.params=
+comment1.target=int[][]\ getArray()
+comment1.text=\n\ Accessor\ method\ for\ the\ instance\ 2-D\ array\n\ \n\ @return\ \ the\ instance\ 2-D\ array\ of\ integers\n
+comment2.params=intArray
+comment2.target=void\ setArray(int[][])
+comment2.text=\n\ Mutator\ method\ for\ the\ instance\ 2-D\ array\n\ \n\ @param\ \ array\ \ \ a\ 2-D\ array\ of\ integers\n
+comment3.params=nextMatrix
+comment3.target=SquareMatrix\ add(SquareMatrix)
+comment3.text=\n\ Add\ two\ square\ Matrices\ and\ return\ the\ result\ as\ a\ new\ Matrix\n\ \n\ @param\ \ nextMatrix\ \ \ The\ matrix\ to\ be\ summed\n\ @return\ \ \ \ \ a\ new\ Matrix\ resulting\ from\ the\ sum\ of\n\ \ \ \ \ \ \ \ \ \ \ \ \ this\ instance\ matrix\ and\ the\ nextMatrix\n
+comment4.params=nextMatrix
+comment4.target=SquareMatrix\ subtract(SquareMatrix)
+comment4.text=\n\ Subtract\ two\ square\ Matrices\ and\ return\ the\ result\ as\ a\ new\ Matrix\n\ \n\ @param\ \ nextMatrix\ \ \ The\ matrix\ to\ be\ subtracted\n\ @return\ \ \ \ \ a\ new\ Matrix\ representing\ the\ difference\ of\n\ \ \ \ \ \ \ \ \ \ \ \ \ this\ instance\ matrix\ and\ the\ nextMatrix\n
+comment5.params=nextMatrix
+comment5.target=SquareMatrix\ multiply(SquareMatrix)
+comment5.text=\n\ Multiply\ two\ square\ Matrices\ and\ return\ the\ result\ as\ a\ new\ Matrix\n\ \n\ @param\ \ nextMatrix\ \ \ The\ matrix\ to\ be\ multiplied\n\ @return\ \ \ \ \ a\ new\ Matrix\ representing\ the\ product\ of\n\ \ \ \ \ \ \ \ \ \ \ \ \ this\ instance\ matrix\ and\ the\ nextMatrix\n
+comment6.params=nextMatrix
+comment6.target=boolean\ equals(SquareMatrix)
+comment6.text=\n\ Compares\ SquareMatrix\ sizes\ and\ contents\n\ \n\ @return\ \ \ \ \ true\ if\ content\ and\ size\ are\ equal\ otherwise\ false\ \n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\n\ toString\n\ \n\ @return\ \ \ \ \ The\ size\ of\ this\ square\ matrix\ \n
+numComments=8
